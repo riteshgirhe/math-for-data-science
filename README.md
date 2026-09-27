@@ -4,7 +4,7 @@ This repository documents my structured preparation in the mathematics, statisti
 
 Every topic here follows the same rule: **no topic is marked done until there's a from-scratch implementation or a solved problem set to prove it** — not just notes. Notes alone don't survive an interview; working code and worked examples do.
 
-🔗 Following along on [LinkedIn](#) · Full tracker on [Notion](#)
+🔗 Following along on [LinkedIn](https://www.linkedin.com/in/ritesh-girhe-b598222a3/) 
 
 ---
 
